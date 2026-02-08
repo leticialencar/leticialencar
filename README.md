@@ -15,7 +15,7 @@
 
 <h4>✦ Ferramentas</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=github,figma,docker,git,postman,vscode,idea&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github,figma,photoshop,docker,git,postman,vscode,idea&theme=dark" />
 </p>
 <sub>Ambiente • Versionamento</sub>
 
