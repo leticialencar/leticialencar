@@ -9,13 +9,13 @@
 
 <h4>✦ Tecnologias</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,react,tailwind,mysql,javascript&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,react,mysql,cs,javascript&theme=dark" />
 </p>
 <sub>Backend • Frontend • Banco de dados</sub>
 
 <h4>✦ Ferramentas</h4>
 <p>
-  <img src="https://skillicons.dev/icons?i=github,vscode,figma,git,postman,photoshop,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,visualstudio,figma,git,postman,docker&theme=dark" />
 </p>
 <sub>Ambiente • Versionamento</sub>
 
